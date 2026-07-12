@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://numbersapi.com
 common:
+  - type: DomainSecurity
+    url: security/numbers-numbersapi-domain-security.yml
   - type: Website
     url: http://numbersapi.com
   - type: PublicAPIsListing
